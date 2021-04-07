@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aparnakochar
 - 👀 I’m currently working on App Development
-- 🌱 I’m currently learning Full Stack Development and Data Structure and Algorithms
+- 🌱 I’m currently learning Full Stack Development 
 - 📫 How to reach me kocharaparna1@gmail.com
 - ✔️ 2021 Goals: To Enhance my Development skills
 - 😄 Pronouns: She/her
